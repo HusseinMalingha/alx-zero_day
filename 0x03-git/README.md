@@ -1,1 +1,1 @@
-Learning git contribution.
+Learning git collaboration.
